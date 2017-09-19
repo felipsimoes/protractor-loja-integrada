@@ -1,0 +1,4 @@
+.yardoc/
+tests_results/*
+node_modules/*
+doc/*
